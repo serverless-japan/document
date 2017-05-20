@@ -1,3 +1,2 @@
 # Document
-Serverless Frameworkの日本語ドキュメントです。原文(https://serverless.com/framework/docs/)
-現在、作業中
+現在、翻訳作業中
